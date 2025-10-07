@@ -1,0 +1,31 @@
+\babel@toc {USenglish}{}\relax 
+\contentsline {section}{\numberline {1}Report Overview}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Executive Summary}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Engagement Overview}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Scope of Engagement}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Observations}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Summary of Recommendations}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Positive Security Measures}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Compliance}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}PCI DSS Violations}{6}{subsubsection.2.3.1}%
+\contentsline {section}{\numberline {3}Testing Methodology}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Penetration Testing Execution Standard}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}MITRE ATT\&CK Framework}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}OWASP Top 10}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}PCI DSS Auditing}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}NIST SP 800-53}{8}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Technical Findings}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Critical Risk}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Lack Of PostgreSQL Authentication}{10}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}High Risk}{12}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Lack of MariaDB Authentication}{12}{subsubsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Moderate Risk}{15}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Payment Transaction Enumeration}{15}{subsubsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.4}Low Risk}{17}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}ScadaBR Reflected XSS (Username)}{17}{subsubsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.5}Informational}{19}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Insufficient Firewalls}{19}{subsubsection.4.5.1}%
+\contentsline {section}{\numberline {5}Conclusion}{20}{section.5}%
+\contentsline {section}{Appendices}{21}{section*.11}%
+\contentsline {section}{\numberline {A}Network Topology}{21}{appendix.A}%
+\contentsline {section}{\numberline {B}Tools}{22}{appendix.B}%
