@@ -3,34 +3,30 @@
 \@writefile{toc}{\contentsline {section}{\numberline {4}Technical Findings}{8}{section.4}\protected@file@percent }
 \newlabel{sec:tech}{{4}{8}{Technical Findings}{section.4}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Critical Risk}{9}{subsection.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.1}Lack Of PostgreSQL Authentication}{9}{subsubsection.4.1.1}\protected@file@percent }
-\newlabel{sec:creds}{{4.1.1}{9}{Lack Of PostgreSQL Authentication}{subsubsection.4.1.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces User postgres does not require a password to authenticate.}}{9}{figure.caption.5}\protected@file@percent }
-\newlabel{fig:images/findings/critical/example_critical_finding1.png}{{3}{9}{User postgres does not require a password to authenticate}{figure.caption.5}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces PostgreSQL Billing Table stored in the clear.}}{10}{figure.caption.6}\protected@file@percent }
-\newlabel{fig:images/findings/critical/example_critical_finding2.png}{{4}{10}{PostgreSQL Billing Table stored in the clear}{figure.caption.6}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}High Risk}{11}{subsection.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.1}Lack of MariaDB Authentication}{11}{subsubsection.4.2.1}\protected@file@percent }
-\newlabel{sec:mysql_no_auth}{{4.2.1}{11}{Lack of MariaDB Authentication}{subsubsection.4.2.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Passwordless Root MariaDB Access}}{11}{figure.caption.7}\protected@file@percent }
-\newlabel{fig:images/findings/high/example_high_finding1.png}{{5}{11}{Passwordless Root MariaDB Access}{figure.caption.7}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces MariaDB tokens Table Dump}}{12}{figure.caption.8}\protected@file@percent }
-\newlabel{fig:images/findings/high/example_high_finding2.png}{{6}{12}{MariaDB tokens Table Dump}{figure.caption.8}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Moderate Risk}{14}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1}Payment Transaction Enumeration}{14}{subsubsection.4.3.1}\protected@file@percent }
-\newlabel{sec:payment_enumeration}{{4.3.1}{14}{Payment Transaction Enumeration}{subsubsection.4.3.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Powershell Script to pull all Customer transactions.}}{14}{figure.caption.9}\protected@file@percent }
-\newlabel{fig:images/findings/moderate/example_moderate_finding.png}{{7}{14}{Powershell Script to pull all Customer transactions}{figure.caption.9}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Low Risk}{16}{subsection.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.1}ScadaBR Reflected XSS (Username)}{16}{subsubsection.4.4.1}\protected@file@percent }
-\newlabel{sec:scadabr_xss_1_username}{{4.4.1}{16}{ScadaBR Reflected XSS (Username)}{subsubsection.4.4.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces XSS Vulnerability in username input field}}{16}{figure.caption.10}\protected@file@percent }
-\newlabel{fig:images/findings/low/example_low_finding.png}{{8}{16}{XSS Vulnerability in username input field}{figure.caption.10}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Informational}{18}{subsection.4.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1}Insufficient Firewalls}{18}{subsubsection.4.5.1}\protected@file@percent }
-\newlabel{sec:insufficient-firewalls}{{4.5.1}{18}{Insufficient Firewalls}{subsubsection.4.5.1}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.1.1}Technical Finding Name}{9}{subsubsection.4.1.1}\protected@file@percent }
+\newlabel{sec:finding_template}{{4.1.1}{9}{Technical Finding Name}{subsubsection.4.1.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}High Risk}{10}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.1}Lack of MariaDB Authentication}{10}{subsubsection.4.2.1}\protected@file@percent }
+\newlabel{sec:mysql_no_auth}{{4.2.1}{10}{Lack of MariaDB Authentication}{subsubsection.4.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Passwordless Root MariaDB Access}}{10}{figure.caption.5}\protected@file@percent }
+\newlabel{fig:images/findings/high/example_high_finding1.png}{{3}{10}{Passwordless Root MariaDB Access}{figure.caption.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces MariaDB tokens Table Dump}}{11}{figure.caption.6}\protected@file@percent }
+\newlabel{fig:images/findings/high/example_high_finding2.png}{{4}{11}{MariaDB tokens Table Dump}{figure.caption.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Moderate Risk}{13}{subsection.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1}Payment Transaction Enumeration}{13}{subsubsection.4.3.1}\protected@file@percent }
+\newlabel{sec:payment_enumeration}{{4.3.1}{13}{Payment Transaction Enumeration}{subsubsection.4.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Powershell Script to pull all Customer transactions.}}{13}{figure.caption.7}\protected@file@percent }
+\newlabel{fig:images/findings/moderate/example_moderate_finding.png}{{5}{13}{Powershell Script to pull all Customer transactions}{figure.caption.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Low Risk}{15}{subsection.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.1}ScadaBR Reflected XSS (Username)}{15}{subsubsection.4.4.1}\protected@file@percent }
+\newlabel{sec:scadabr_xss_1_username}{{4.4.1}{15}{ScadaBR Reflected XSS (Username)}{subsubsection.4.4.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces XSS Vulnerability in username input field}}{15}{figure.caption.8}\protected@file@percent }
+\newlabel{fig:images/findings/low/example_low_finding.png}{{6}{15}{XSS Vulnerability in username input field}{figure.caption.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Informational}{17}{subsection.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1}Insufficient Firewalls}{17}{subsubsection.4.5.1}\protected@file@percent }
+\newlabel{sec:insufficient-firewalls}{{4.5.1}{17}{Insufficient Firewalls}{subsubsection.4.5.1}{}}
 \@setckpt{tex/sections/4_findings}{
-\setcounter{page}{19}
+\setcounter{page}{18}
 \setcounter{equation}{0}
 \setcounter{enumi}{0}
 \setcounter{enumii}{0}
@@ -44,7 +40,7 @@
 \setcounter{subsubsection}{1}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{8}
+\setcounter{figure}{6}
 \setcounter{table}{2}
 \setcounter{r@tfl@t}{0}
 \setcounter{section@level}{3}
