@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  6 OCT 2025 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  10 OCT 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1374,66 +1374,49 @@ File: images/general/logo.png Graphic file (type png)
 <use images/general/logo.png>
 Package pdftex.def Info: images/general/logo.png  used on input line 20.
 (pdftex.def)             Requested size: 236.01561pt x 101.86983pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
-7.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-7.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-47.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-47.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 47.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 47.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-7.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-<images/general/insitutionlogo.png, id=131, 191.21437pt x 79.04532pt>
-File: images/general/insitutionlogo.png Graphic file (type png)
-<use images/general/insitutionlogo.png>
-Package pdftex.def Info: images/general/insitutionlogo.png  used on input line 
-50.
-(pdftex.def)             Requested size: 191.2139pt x 79.0451pt.
 
 
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images/general/logo
-.png> <./images/general/insitutionlogo.png>]) (./main.toc
+.png>]) (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+2.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+2.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 2.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -1511,7 +1494,7 @@ Underfull \hbox (badness 4660) in paragraph at lines 33--33
 
 LaTeX Warning: Citation 'PTES' on page 7 undefined on input line 15.
 
-<images/general/PTES.png, id=216, 1786.675pt x 260.975pt>
+<images/general/PTES.png, id=211, 1786.675pt x 260.975pt>
 File: images/general/PTES.png Graphic file (type png)
 <use images/general/PTES.png>
 Package pdftex.def Info: images/general/PTES.png  used on input line 17.
@@ -1576,7 +1559,7 @@ LaTeX Warning: Citation 'nvdcvss' on page 9 undefined on input line 43.
 
 
 ] (./tex/findings/critical/example_critical_finding.tex
-<images/findings/critical/example_critical_finding1.png, id=235, 796.9775pt x 2
+<images/findings/critical/example_critical_finding1.png, id=230, 796.9775pt x 2
 65.99374pt>
 File: images/findings/critical/example_critical_finding1.png Graphic file (type
  png)
@@ -1589,7 +1572,7 @@ Package pdftex.def Info: images/findings/critical/example_critical_finding1.png
 LaTeX Warning: Citation 'pcidssfineexample' on page 10 undefined on input line 
 30.
 
-<images/findings/critical/example_critical_finding2.png, id=238, 523.20468pt x 
+<images/findings/critical/example_critical_finding2.png, id=233, 523.20468pt x 
 206.27063pt>
 File: images/findings/critical/example_critical_finding2.png Graphic file (type
  png)
@@ -1622,7 +1605,7 @@ Overfull \hbox (9.8687pt too wide) in paragraph at lines 23--24
 mod-i-fi-ca-tion to sen-si-tive datasets,
  []
 
-<images/findings/high/example_high_finding1.png, id=257, 355.3275pt x 170.13562
+<images/findings/high/example_high_finding1.png, id=253, 355.3275pt x 170.13562
 pt>
 File: images/findings/high/example_high_finding1.png Graphic file (type png)
 <use images/findings/high/example_high_finding1.png>
@@ -1632,7 +1615,7 @@ n input line 33.
 
 
 [12 <./images/findings/high/example_high_finding1.png>]
-<images/findings/high/example_high_finding2.png, id=266, 1336.995pt x 618.31pt>
+<images/findings/high/example_high_finding2.png, id=262, 1336.995pt x 618.31pt>
 
 File: images/findings/high/example_high_finding2.png Graphic file (type png)
 <use images/findings/high/example_high_finding2.png>
@@ -1644,7 +1627,7 @@ n input line 61.
 [13 <./images/findings/high/example_high_finding2.png>])
 
 [14] (./tex/findings/moderate/example_moderate_finding.tex
-<images/findings/moderate/example_moderate_finding.png, id=290, 900.36375pt x 7
+<images/findings/moderate/example_moderate_finding.png, id=286, 900.36375pt x 7
 56.8275pt>
 File: images/findings/moderate/example_moderate_finding.png Graphic file (type 
 png)
@@ -1663,7 +1646,7 @@ ng to \T1/lmr/m/it/12 https://10.0.17.10/payment/$i
 )
 
 [16] (./tex/findings/low/example_low_finding.tex
-<images/findings/low/example_low_finding.png, id=303, 1606.0pt x 459.7175pt>
+<images/findings/low/example_low_finding.png, id=299, 1606.0pt x 459.7175pt>
 File: images/findings/low/example_low_finding.png Graphic file (type png)
 <use images/findings/low/example_low_finding.png>
 Package pdftex.def Info: images/findings/low/example_low_finding.png  used on i
@@ -1691,7 +1674,7 @@ nput line 25.
 
 LaTeX Warning: Empty bibliography on input line 11.
 
-<images/general/topology.PNG, id=329, 659.5842pt x 426.8748pt>
+<images/general/topology.PNG, id=325, 659.5842pt x 426.8748pt>
 File: images/general/topology.PNG Graphic file (type png)
 <use images/general/topology.PNG>
 Package pdftex.def Info: images/general/topology.PNG  used on input line 24.
@@ -1733,23 +1716,23 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36659 strings out of 473190
- 692461 string characters out of 5715801
- 1514225 words of memory out of 5000000
- 59150 multiletter control sequences out of 15000+600000
- 636162 words of font info for 86 fonts, out of 8000000 for 9000
+ 36620 strings out of 473190
+ 691775 string characters out of 5715801
+ 1514187 words of memory out of 5000000
+ 59119 multiletter control sequences out of 15000+600000
+ 614912 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 139i,13n,145p,1181b,1918s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 139i,13n,145p,1181b,1967s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 /2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf
 -dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pub
 lic/lm/lmtt12.pfb>
-Output written on main.pdf (23 pages, 606985 bytes).
+Output written on main.pdf (23 pages, 594726 bytes).
 PDF statistics:
- 407 PDF objects out of 1000 (max. 8388607)
- 349 compressed objects within 4 object streams
+ 403 PDF objects out of 1000 (max. 8388607)
+ 347 compressed objects within 4 object streams
  79 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
